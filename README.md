@@ -1,6 +1,6 @@
-chik
+Chikungunya Virus
 ====
 
-Papers and metadata for the emerging chikungunya epidmic in the Americas
+Papers and metadata for the emerging chikungunya epidemic in the Americas
 
-Put some details here.
+
